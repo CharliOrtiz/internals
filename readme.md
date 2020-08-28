@@ -6,3 +6,4 @@ a simple list
 -3
 -4
 -5
+another item
